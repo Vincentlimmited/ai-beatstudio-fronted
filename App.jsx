@@ -1,0 +1,1 @@
+/* AI BeatStudio Frontend - App.jsx placeholder */
